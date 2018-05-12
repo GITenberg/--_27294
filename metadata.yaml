@@ -1,0 +1,29 @@
+_repo: --_27294
+_version: 0.1.0
+alternative_title: Fang Yan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yang, Xiong
+    alias: 揚雄
+    birthdate: -53
+    deathdate: 18
+    gutenberg_agent_id: '32604'
+    url: http://www.gutenberg.org/2009/agents/32604
+    wikipedia: http://zh.wikipedia.org/wiki/%E6%89%AC%E9%9B%84
+description: ''
+gutenberg_issued: '2008-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27294'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcsh 'Chinese language -- Dialects'
+title: 方言
+url: http://www.gutenberg.org/ebooks/27294
